@@ -2,7 +2,7 @@
 - 👀 I’m interested in practicing and contributing to collaborative projects
 - 🌱 I’m currently learning Swift 
 - 💞️ I’m looking to collaborate on Swift + iOS projects.
-- 📫 How to reach me: jcantilloGA@gmail.com
+- 📫 How to reach me: jcantilloGA@outlook.com
 
 <!---
 jcantillo94/jcantillo94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
